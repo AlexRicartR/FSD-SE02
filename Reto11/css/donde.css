@@ -1,0 +1,30 @@
+table {
+    outline: 15px;
+    outline-color: black;
+    border: 5px solid rgb(0, 0, 0);
+    border-bottom-color: aquamarine;
+    border-bottom-style: outset;
+    border-right-color: aquamarine;
+}
+
+td {
+    border: 1px solid green;
+}
+
+th {
+    border: 1px solid rgb(0, 47, 255);
+    background-color: rgb(2, 173, 54);
+    color: white;
+}
+
+#background {
+    background-color: aqua;
+}
+
+/* div {
+    padding: 20px;
+    height:80px;
+    width: 180px;
+    border: 3px solid green;
+    outline: 5px solid black;
+} */
